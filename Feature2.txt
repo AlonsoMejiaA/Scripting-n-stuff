@@ -1,0 +1,18 @@
+double pelotas = 2;
+string jugUno = "1";
+
+Void repartidorPelotas()
+{
+
+
+}
+
+Void saque()
+{
+
+}
+
+Void partido()
+{
+    
+}
