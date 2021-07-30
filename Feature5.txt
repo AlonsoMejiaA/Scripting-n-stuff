@@ -1,0 +1,9 @@
+int a,b,c;
+
+void suma()
+
+a+b = c
+
+void multiplicacion()
+
+a*b = c
